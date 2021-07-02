@@ -20,6 +20,11 @@ Below is a table addressing some common data and optimization related parameters
 | Loss Function  | Cross Entropy Loss |
 | Optimizer      |       AdamW        |
 
+## Plot(s)
+
+<img src = "https://github.com/ThanmayJ/neural-machine-translation/blob/main/Seq2Seq.jpeg?raw=true"/>
+
+
 ## Other open-source contributions
 
 ### 1. [Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/IvLabs/Natural-Language-Processing/blob/master/neural_machine_translation/notebooks/Seq2Seq_with_Attention.ipynb)
