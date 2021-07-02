@@ -3,7 +3,7 @@
 This section contains implementations of papers presenting novel architectures for Neural Machine Translation (NMT).
 
 ### [Sequence to Sequence Learning with Neural Networks](https://github.com/ThanmayJ/neural-machine-translation/blob/main/seq2seq-pytorch.ipynb)
-This paper proposes the pioneering paradigm for nerual machine translation using a simple yet applaudable encoder-decoder RNN pair. Although, being the poorest of performers in this list, it earns a spot due to its novely.\
+This paper proposes the pioneering paradigm for neural machine translation using a simple yet applaudable encoder-decoder RNN pair. Although, being the poorest of performers in this list, it earns a spot due to its novely.\
 **<ins>Note:</ins>** A few changes have been made in order to improve performance.
 1. Unlike the paper, reversing the input sequences resulted in a lower BLEU Score. Hence, the input sequences have not been reversed.
 2. Further an additional parameter called ```teacher_forcing_ratio```, which is the probability of using the ground truth tokens as inputs while decoding has been introduced. It is usually set to 1 while training and 0 while sampling. However, setting it to 0.5 resulted in a better BLEU Score than setting it to 1.
