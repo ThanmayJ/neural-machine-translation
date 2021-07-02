@@ -22,7 +22,7 @@ Below is a table addressing some common data and optimization related parameters
 
 ## Plot(s)
 
-<img src = "https://github.com/ThanmayJ/neural-machine-translation/blob/main/Seq2Seq.jpeg?raw=true"/>
+<img src = "https://github.com/ThanmayJ/neural-machine-translation/blob/main/Seq2Seq.png?raw=true"/>
 
 
 ## Other open-source contributions
