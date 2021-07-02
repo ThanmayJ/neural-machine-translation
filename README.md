@@ -30,7 +30,7 @@ This paper presents a remarkable improvement in the Sequence to Sequence archite
 This paper can be said to have revolutionized almost all of Natural Language Processing, all owing to its tremendous simplicity and efficiency which makes it the backbone of almost all present State Of The Art architectures. The proposed *Transformer* architecture introduces a novel metric called *Self-Attention* which induces a sense of (soft)alignment amongst the source sentence tokens too. Additionally architecture uses simple feed-forward layers which makes it almost 4 times lighter than the Convolutional Sequence to Sequence architecture, while attaining the highest BLEU score amongst all the above mentioned architectures.
 
 
-### Summary
+## Summary
 Below is a table, summarising the number of parameters and the BLEU scores achieved by each architecture.
 
 | Architecture                        | No. of Trainable Parameters | BLEU Score |
